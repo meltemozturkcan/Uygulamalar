@@ -1,1 +1,1 @@
-Uygulama c# form ile hazırlanmış bir Basit hesap makinesidir.
+c# ile hazırlanmış çeşitli uygulamalar bulunmaktadır
