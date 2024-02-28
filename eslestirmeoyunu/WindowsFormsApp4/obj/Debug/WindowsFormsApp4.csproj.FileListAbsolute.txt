@@ -1,0 +1,37 @@
+c:\users\ebubekir\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+c:\users\ebubekir\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+c:\users\ebubekir\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+c:\users\ebubekir\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+c:\users\ebubekir\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+c:\users\ebubekir\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+c:\users\ebubekir\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+c:\users\ebubekir\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+c:\users\ebubekir\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunu\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Admin\Downloads\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunu\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Admin\Downloads\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunu\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Admin\Downloads\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Admin\Downloads\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Admin\Downloads\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Admin\Downloads\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Admin\Desktop\projeler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Admin\Desktop\projeler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Admin\Desktop\projeler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Admin\Desktop\projeler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\projeler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Admin\Desktop\projeler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Admin\Desktop\projeler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\projeler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Admin\Desktop\projeler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+E:\Yeni klasör\masaustu 12042022\BEM_2017\PROJECTS_\ödevler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+E:\Yeni klasör\masaustu 12042022\BEM_2017\PROJECTS_\ödevler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+E:\Yeni klasör\masaustu 12042022\BEM_2017\PROJECTS_\ödevler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+E:\Yeni klasör\masaustu 12042022\BEM_2017\PROJECTS_\ödevler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+E:\Yeni klasör\masaustu 12042022\BEM_2017\PROJECTS_\ödevler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+E:\Yeni klasör\masaustu 12042022\BEM_2017\PROJECTS_\ödevler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+E:\Yeni klasör\masaustu 12042022\BEM_2017\PROJECTS_\ödevler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+E:\Yeni klasör\masaustu 12042022\BEM_2017\PROJECTS_\ödevler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+E:\Yeni klasör\masaustu 12042022\BEM_2017\PROJECTS_\ödevler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+E:\Yeni klasör\masaustu 12042022\BEM_2017\PROJECTS_\ödevler\eslestirmeoyunu-20170717T110734Z-001\eslestirmeoyunuuu\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
